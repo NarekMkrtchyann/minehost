@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Շանթ HD" group-title="Հայկական Ալիքներ 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shanttv.png",Shant TV
+http://cdn.vivamax.pro/ShantTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Արմենիա TV HD" group-title="Հայկական Ալիքներ 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/armonv.png",Armenia TV
+http://cdn.vivamax.pro/ArmeniaTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="Շանթ News HD" group-title="Հայկական Ալիքներ 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantnews.png",Shant News
+http://cdn.vivamax.pro/ShantNews/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-year="14" catchup-type="flussonic" tvg-id="ATV HD" group-title="Հայկական Ալիքներ 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/atv-armenia.png",ATV
+http://cdn.vivamax.pro/ATV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! ТВ HD" group-title="Սպորտ" tvg-logo="http://logo.vivamax.pro/logo/matchtv.png",Матч! ТВ
+http://cdn.vivamax.pro/MatchTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Премьер HD" group-title="Սպորտ" tvg-logo="http://logo.vivamax.pro/logo/matchpremier.png",Матч! Премьер
+http://cdn.vivamax.pro/MatchPremier/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Футбол 1 HD" group-title="Սպորտ" tvg-logo="http://logo.vivamax.pro/logo/matchfootball1.png",Матч! Футбол 1
+http://cdn.vivamax.pro/MatchFootball1/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Футбол 2 HD" group-title="Սպորտ" tvg-logo="http://logo.vivamax.pro/logo/matchfootball2.png",Матч! Футбол 2
+http://cdn.vivamax.pro/MatchFootball2/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-year="7" catchup-type="flussonic" tvg-id="Матч! Футбол 3 HD" group-title="Սպորտ" tvg-logo="http://logo.vivamax.pro/logo/matchfootball3.png",Матч! Футбол 3
+http://cdn.vivamax.pro/MatchFootball3/index.m3u8?token=327d0f867e8f
