@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Armenia TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/armeniatv.png",Armenia TV
+http://cdn.vivamax.pro/ArmeniaTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Shant TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shant.png",Shant TV
+http://cdn.vivamax.pro/ShantTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Arajin Aliq" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/arajin.png",Arajin Aliq
+http://cdn.vivamax.pro/ArajinAliq/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="ATV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/atv.png",ATV
+http://cdn.vivamax.pro/ATV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Nor Hayastan" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/newarmeniatv.png",Nor Hayastan
+http://cdn.vivamax.pro/NorHayastan/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="21TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/21tv.png",21TV
+http://cdn.vivamax.pro/21TV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Lurer" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/lurer.png",Arajini Lratvakan
+http://cdn.vivamax.pro/Lurer/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="H2" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/h2.png",H2
+http://cdn.vivamax.pro/H2/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Kentron TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/kentron.png",Kentron
+http://cdn.vivamax.pro/Kentron/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Shoghakat" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shem.png",Shem
+http://cdn.vivamax.pro/Shoghakat/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="FreeNews" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/FreeNews.png",FreeNews
+http://cdn.vivamax.pro/FreeNews/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Boon TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/boon.png",Boon TV
+http://cdn.vivamax.pro/Boon/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="ABN" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/abn.png",ABN
+http://cdn.vivamax.pro/ABN/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Nur TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/nur.png",Nur TV
+http://cdn.vivamax.pro/NurTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="5TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/5TV.png",5TV
+http://cdn.vivamax.pro/5TV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Erkir Media" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/yerkirmedia.png",Yerkir Media
+http://cdn.vivamax.pro/YerkirMedia/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Azatutyun TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/azatutyun.png",Azatutyun TV
+http://cdn.vivamax.pro/AzatutyunTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Alpha News" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/alphanews.png",Alpha News
+http://cdn.vivamax.pro/Alpha_News/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Armenia Premium" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/premium1.png",Armenia Premium
+http://cdn.vivamax.pro/ArmeniaPremium/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="HayKino" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/haykino.png",HayKino
+http://cdn.vivamax.pro/HayKino/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Jan TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/jantv.png",JanTV
+http://cdn.vivamax.pro/JanTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Comedy" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/comedyam.png",Comedy
+http://cdn.vivamax.pro/Comedy/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="TunTunik" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/tuntunik.png",TunTunik
+http://cdn.vivamax.pro/TunTunik/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Cineman" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/cineman.png",Cineman
+http://cdn.vivamax.pro/Cineman/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Шант Premium HD" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantpremium.png",Shant Premium
+http://cdn.vivamax.pro/ShantPremium/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Shant Serial" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantserial.png",Shant Serial
+http://cdn.vivamax.pro/ShantSerial/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Shant Music" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantmusic.png",Shant Music
+http://cdn.vivamax.pro/ShantMusic/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Shant Kids" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantkids.png",Shant Kids
+http://cdn.vivamax.pro/ShantKids/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Shant Comedy" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantcomedy.png",Shant Comedy
+http://cdn.vivamax.pro/ShantComedy/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Shant Film" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantfilm.png",Shant Film
+http://cdn.vivamax.pro/ShantFilm/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Shant Gyumri" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/shantgyumri.png",Shant Gyumri
+http://cdn.vivamax.pro/ShantGyumri/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Lifehack" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/lifehack.png",Lifehack
+http://cdn.vivamax.pro/Lifehack/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Kinoman" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/kinomanam.png",Kinoman
+http://cdn.vivamax.pro/Kinoman/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Fitness" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fitness.png",Fitness
+http://cdn.vivamax.pro/Fitness/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Muzzone" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/muzzone.png",Muzzone
+http://cdn.vivamax.pro/Muzzone/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Khaghaliq TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/khaghaliq.png",Khaghaliq
+http://cdn.vivamax.pro/Xaghaliq/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Bazmots" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/bazmots.png",Bazmots
+http://cdn.vivamax.pro/Bazmoc/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Hay TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/haytv.png",Hay TV
+http://cdn.vivamax.pro/HayTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Tava TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/tava.png",Tava
+http://cdn.vivamax.pro/Tava/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Fast Sports" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fastsports.png",FastSports
+http://cdn.vivamax.pro/FastSports/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Fast Sports 1" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fastsports1.png",FastSports 1
+http://cdn.vivamax.pro/FastSports1/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="14" catchup-type="flussonic" tvg-id="Fast Sports 2" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fastsports2.png",FastSports 2
+http://cdn.vivamax.pro/FastSports2/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="5TV Plus" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/5tvplus.png",5TV Plus
+http://cdn.vivamax.pro/5TVPlus/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Euromedia24" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/euromedia24tv.png",Euromedia24
+http://cdn.vivamax.pro/Euromedia24/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="1in TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/1intv.png",1in TV
+http://cdn.vivamax.pro/1inTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="SONGTV Armenia" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/songtv.png",SongTV Armenia
+http://cdn.vivamax.pro/SongTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fresh.png",Fresh TV
+http://cdn.vivamax.pro/FreshTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Delta TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/deltatv.png",Delta TV
+http://cdn.vivamax.pro/DeltaTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/deltatravel.png",Delta Travel
+http://cdn.vivamax.pro/DeltaTravel/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/deltamusic.png",Delta Music
+http://cdn.vivamax.pro/DeltaMusic/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Fortuna TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/fortuna.png",Fortuna TV
+http://cdn.vivamax.pro/FortunaTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Geghama TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/geghama.png",Geghama TV
+http://cdn.vivamax.pro/Geghama/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Ararat TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/ararat.png",Ararat TV
+http://cdn.vivamax.pro/Ararat/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Kotayq TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/kotayq.png",Kotayq TV
+http://cdn.vivamax.pro/Kotayq/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Lori TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/loritv.png",Lori TV
+http://cdn.vivamax.pro/Lori/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Syunik TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/syunik.png",Syunik TV
+http://cdn.vivamax.pro/Syunik/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Tavush TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/tavush.png",Tavush TV
+http://cdn.vivamax.pro/Tavush/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Tsayg" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/tsayg.png",Tsayg
+http://cdn.vivamax.pro/Tsayg/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="ARMA TV" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/arma.png",Arma TV
+http://cdn.vivamax.pro/ARMA/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/velari.png",Velari
+http://cdn.vivamax.pro/Velari/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/armmusic.png",ArmMusic
+http://cdn.vivamax.pro/ArmMusic/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Hybrid EDU" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hybridedu.png",Hybrid Edu
+http://cdn.vivamax.pro/HybridEdu/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Hybrid Film" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hybridfilm.png",Hybrid Film
+http://cdn.vivamax.pro/HybridFilm/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Hybrid Rest" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hybridrest.png",Hybrid Rest
+http://cdn.vivamax.pro/HybridRest/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Armtoon.tv" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/armtoon_tv.png",Armtoon
+http://cdn.vivamax.pro/Armtoon/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="TBN Armenia" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/tbnarmenia.png",TBN Armenia
+http://cdn.vivamax.pro/TBNArmenia/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/panarmeniantv.png",PanArmenian TV
+http://cdn.vivamax.pro/PanArmenian/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/artn.png",ARTN
+http://cdn.vivamax.pro/ARTN/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/armount.png",Armount
+http://cdn.vivamax.pro/Armount/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="Arajin Aliq USA" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/arajinaliqusa.png",Arajin Aliq USA
+http://cdn.vivamax.pro/ArajinAliq_USA/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/usarmeniatv.png",USArmenia TV
+http://cdn.vivamax.pro/USArmeniaTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/aabc.png",AABC
+http://cdn.vivamax.pro/AABC/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/amga.png",AMGA
+http://cdn.vivamax.pro/AMGA/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/horizon.png",Horizon
+http://cdn.vivamax.pro/Horizon/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="Noyan Tapan" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/noyantapan.png",Noyan Tapan
+http://cdn.vivamax.pro/NoyanTapan/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Arajin Aliq Satellite" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/arajinimijazgayin.png",Arajini Mijazgayin Aliq
+http://cdn.vivamax.pro/ArajiniMijazgayinAliq/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/armeniahd.png",Armenia TV Satellite
+http://cdn.vivamax.pro/ArmeniaTVSat/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evnhaydubl" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnhaydubl.png",EVN+ՀայԴուբլ
+http://cdn.vivamax.pro/EVNHayDubl/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="1" catchup-type="flussonic" tvg-id="evndubljam" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evndubljam.png",EVN+ԴուբլԺամ
+http://cdn.vivamax.pro/EVNDubljam/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="1" catchup-type="flussonic" tvg-id="evndublart" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evndublart.png",EVN+ԴուբլԱրտ
+http://cdn.vivamax.pro/EVNDublArt/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="1" catchup-type="flussonic" tvg-id="evnpuchik" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnpuchik.png",EVN+Փուչիկ
+http://cdn.vivamax.pro/EVNPuchik/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evnciacan" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnciacan.png",EVN+Ծիածան
+http://cdn.vivamax.pro/EVNCiacan/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evntaqhetqer" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evntaqhetqer.png",EVN+ՏաքՀետքեր
+http://cdn.vivamax.pro/EVNTaqhetqer/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evnjapaven" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnjapaven.png",EVN+Ժապավեն
+http://cdn.vivamax.pro/EVNJapaven/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evncicax" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evncicax.png",EVN+Ծիծաղ
+http://cdn.vivamax.pro/EVNCicax/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evnhrazen" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnhrazen.png",EVN+Հրազեն
+http://cdn.vivamax.pro/EVNHrazen/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evnmenamart" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnmenamart.png",EVN+Մենամարտ
+http://cdn.vivamax.pro/EVNMenamart/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evnhetaxuyz" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnhetaxuyz.png",EVN+Հետախույզ
+http://cdn.vivamax.pro/EVNHetaxuyz/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evntitan" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evntitan.png",EVN+Տիտան
+http://cdn.vivamax.pro/EVNTitan/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evnheros" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnheros.png",EVN+Հերոս
+http://cdn.vivamax.pro/EVNHeros/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evnorakul" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnorakul.png",EVN+Օրակուլ
+http://cdn.vivamax.pro/EVNOrakul/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evnselestia" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnselestia.png",EVN+Սելեստիա
+http://cdn.vivamax.pro/EVNSelestia/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evnhrashagorc" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnhrashagorc.png",EVN+Հրաշագործ
+http://cdn.vivamax.pro/EVNHrashagorc/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-days="3" catchup-type="flussonic" tvg-id="evnneo" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/evnneo.png",EVN+Նեո 4K
+http://cdn.vivamax.pro/EVNNeo/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/bluestv.png",Blues TV
+http://cdn.vivamax.pro/BluesTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hayastantvhumor.png",HayastanTV Humor
+http://cdn.vivamax.pro/hayastantvhumor/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hayastantvmusic.png",HayastanTV Music
+http://cdn.vivamax.pro/hayastantvmusic/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/migtv.png",Mig TV
+http://cdn.vivamax.pro/MigTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/hayerjanmusic.png",HAYERJAN Music
+http://cdn.vivamax.pro/HayerJanMusic/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/auroratv.png",Aurora TV
+http://cdn.vivamax.pro/AuroraTV/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/radio_van.png",Radio Van
+http://cdn.vivamax.pro/RadioVan/index.m3u8?token=327d0f867e8f
+#EXTINF:-1 catchup-type="flussonic" tvg-id="" group-title="Armenia 🇦🇲" tvg-logo="http://logo.vivamax.pro/logo/kissfm.png",KissFM Armenia
+http://cdn.vivamax.pro/KissFM/index.m3u8?token=327d0f867e8f
