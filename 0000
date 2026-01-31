@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ch1079" tvg-name="AM: 5 TV" tvg-logo="http://tvtm.one/images/chIcons/1079.png" tvg-rec="6", AM: 5 TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1079/mono.m3u8?token=nareka.v2_c9E0wz56R-gbHkWXJ33LRS4BTMFOMoy8ODrqu_2lwtifPwFOOy0MnHgXf7smAWtA_Ij0ec25tS8
+#EXTINF:0 tvg-id="ch1497" tvg-name="AM: 5 TV+" tvg-logo="http://tvtm.one/images/chIcons/1497.png" tvg-rec="6", AM: 5 TV+
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1497/mono.m3u8?token=nareka.v2_59ChSL7Sl6bKrk9SoanbDmnqIGXe2qykOLYPmTrx4DmPunmuNSw-oZhHRT0SQbcixzdDKgsuUuk
+#EXTINF:0 tvg-id="ch1494" tvg-name="AM: ABN" tvg-logo="http://tvtm.one/images/chIcons/1494.png" tvg-rec="6", AM: ABN
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1494/mono.m3u8?token=nareka.v2_Sj5zSEQTI_Sk0PQnNBYaSTKpUJ0Ywa8J9e-6nqH_A-TWhTffdy7Leoeelws1NMruIzCiFAeSjXE
+#EXTINF:0 tvg-id="ch2407" tvg-name="AM: Ararat TV" tvg-logo="http://tvtm.one/images/chIcons/2407.png" tvg-rec="6", AM: Ararat TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch2407/mono.m3u8?token=nareka.v2_N2J17CZfW7lQ5fhDhjsM-V5vbokRz5cyBDcFkQK_Y7fb-QshB0iaKSF6AnnE7mES4X-xYOmbdMc
+#EXTINF:0 tvg-id="ch2860" tvg-name="AM: Alpha News HD" tvg-logo="http://tvtm.one/images/chIcons/2860.png" tvg-rec="6", AM: Alpha News HD
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch2860/mono.m3u8?token=nareka.v2_r9V3d3bO4JkCPmGaFDZlDFW4mgCZTt_my1_XA-CVE22OKs9VeHXc0Za6t9CTv5Wts4Ey5qLgnrY
+#EXTINF:0 tvg-id="ch574" tvg-name="AM: Armenia TV" tvg-logo="http://tvtm.one/images/chIcons/574.png" tvg-rec="6", AM: Armenia TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch574/mono.m3u8?token=nareka.v2_eTJrBng7_LgwqqEOMab0I5z4XlAPk3xmCc0bTFrS2QXnmJ8vsnDL8xAF7NxtLBRtb-GYulwHaQ
+#EXTINF:0 tvg-id="ch1473" tvg-name="AM: Armenia Premium" tvg-logo="http://tvtm.one/images/chIcons/1473.png" tvg-rec="6", AM: Armenia Premium
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1473/mono.m3u8?token=nareka.v2_fQHs5WlT73OR3j1IJ1LMpKJWXOz1Uc_c93HX83v_CAe-UUezLF95TgIJ-ovR30JR08rqZIwBviE
+#EXTINF:0 tvg-id="ch1077" tvg-name="AM: Arajin Aliq" tvg-logo="http://tvtm.one/images/chIcons/1077.png" tvg-rec="6", AM: Arajin Aliq
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1077/mono.m3u8?token=nareka.v2_s3OmZ2-MqF4-TA-ZoW9BRkrjsrqt1AtwJ06H2vptCLAx8S_5WursTlhm256bUYtkknzIJpqajMM
+#EXTINF:0 tvg-id="ch1086" tvg-name="AM: Arajin Aliq Sat HD" tvg-logo="http://tvtm.one/images/chIcons/1086.png" tvg-rec="6", AM: Arajin Aliq Sat HD
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1086/mono.m3u8?token=nareka.v2_vdwbv_-pfCjk1qvWO_ycZkMRTSHbhwATYgtH_V0jYn6Ez9Ox5bU_Wek3dBe--gjHi8RxtzAZ9Sg
+#EXTINF:0 tvg-id="ch2068" tvg-name="Arajin Aliq USA" tvg-logo="http://tvtm.one/images/chIcons/2068.png" tvg-rec="6", Arajin Aliq USA
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch2068/mono.m3u8?token=nareka.v2_ftuuNrCeRPRammPfJ6_fk1_3O8ukb4h3APZwcK6yzXBA752Ef9jOfXdWCUQpwGyzGn69rWnYzJY
+#EXTINF:0 tvg-id="ch576" tvg-name="AM: ATV HD" tvg-logo="http://tvtm.one/images/chIcons/576.png" tvg-rec="6", AM: ATV HD
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch576/mono.m3u8?token=nareka.v2_121AkCQrMk3JjUKZMXy3XXq_EY4SVo0TG1B_LM_uZGN7RO_zNzIWTsgLcyKN48FGUaiRgtqa_Q
+#EXTINF:0 tvg-id="ch1479" tvg-name="AM: ATV Lifehack" tvg-logo="http://tvtm.one/images/chIcons/1479.png" tvg-rec="6", AM: ATV Lifehack
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1479/mono.m3u8?token=nareka.v2_uCn7U6R701c5t6HjL_xTNVnv8RIJ4318Y64wZlgHN3T5HPs7z3vwMHubnqrxPQQFZ0o5kajfF88
+#EXTINF:0 tvg-id="ch1480" tvg-name="AM: ATV Bazmoc" tvg-logo="http://tvtm.one/images/chIcons/1480.png" tvg-rec="6", AM: ATV Bazmoc
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1480/mono.m3u8?token=nareka.v2_QKDA-vcX5LRJz8yKR6yudD7kUBnnTQ3ZToYEY1qzbLewZ9zU0-M_xWG6NmBuIAsDtZ0V7ANy_8E
+#EXTINF:0 tvg-id="ch1481" tvg-name="AM: ATV Kinoman" tvg-logo="http://tvtm.one/images/chIcons/1481.png" tvg-rec="6", AM: ATV Kinoman
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1481/mono.m3u8?token=nareka.v2_aHeOdorukFqa3TbmeA0Ko69xazqa4S2iOQEICLTtY8056znjCRhi3_wsRl226_qkUza3GvLeFrk
+#EXTINF:0 tvg-id="ch1482" tvg-name="AM: ATV Xaghaliq" tvg-logo="http://tvtm.one/images/chIcons/1482.png" tvg-rec="6", AM: ATV Xaghaliq
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1482/mono.m3u8?token=nareka.v2_DKKgMBgv1QXgU5zwzixIsNN94NgD4VmgtqaGDgqXohCsx4VMo1yiJxDN1_UoJTa-TdSAnlVsvS0
+#EXTINF:0 tvg-id="ch1483" tvg-name="AM: ATV Muzzone" tvg-logo="http://tvtm.one/images/chIcons/1483.png" tvg-rec="6", AM: ATV Muzzone
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1483/mono.m3u8?token=nareka.v2_lCKLnxdC5A0PRmOCXTjuFGqKYhLJxRgiQPI6QY1Wkg8d4C6efuzqjR6jmA7cMzmTSea1qCp9yqs
+#EXTINF:0 tvg-id="ch1484" tvg-name="AM: ATV Tava" tvg-logo="http://tvtm.one/images/chIcons/1484.png" tvg-rec="6", AM: ATV Tava
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1484/mono.m3u8?token=nareka.v2_tBB1VTlVjEE7ZEiDSXHcMOO6GTAIFq5Bx3v6iJExQqO7_0c_ERbw7Qe_JBCFgSI3oQGHhEPzFc8
+#EXTINF:0 tvg-id="ch1486" tvg-name="AM: ATV Fitness" tvg-logo="http://tvtm.one/images/chIcons/1486.png" tvg-rec="6", AM: ATV Fitness
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1486/mono.m3u8?token=nareka.v2_RIkyo19Hhm_2DE0flp2w58u9eRQ0EoaABqWeipj5zEcQBmuYGzutxFLoNCWbZ-edEI5Yo9FOTgQ
+#EXTINF:0 tvg-id="ch1485" tvg-name="AM: ATV HayTV" tvg-logo="http://tvtm.one/images/chIcons/1485.png" tvg-rec="6", AM: ATV HayTV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1485/mono.m3u8?token=nareka.v2_9e1jiaPLN2V2bCtBjCQ3A4Ss3sPxf-iHUf4TGYlqhGZLmu5aAo4M72gHhHgc4Vf6MOAuVGYHlA0
+#EXTINF:0 tvg-id="ch1081" tvg-name="AM: AABC" tvg-logo="http://tvtm.one/images/chIcons/1081.png" tvg-rec="0", AM: AABC
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1081/mono.m3u8?token=nareka.v2_IIxqQE_uHoSgq893rHQCGJxr2mGISk8K4zzoFPQL2zAStdKo0s9fxV8gV5K8lvncsu64hOvcbqU
+#EXTINF:0 tvg-id="ch1523" tvg-name="AM: Amga" tvg-logo="http://tvtm.one/images/chIcons/1523.png" tvg-rec="0", AM: Amga
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1523/mono.m3u8?token=nareka.v2_IzyiYoxm3VnCrJjKlMDZpgTCewiqTc7nZl-8XKauc0-PMwHWXvt_iRi2eF0_ypVO7R82-aLMv2w
+#EXTINF:0 tvg-id="ch1519" tvg-name="AM: Arma TV" tvg-logo="http://tvtm.one/images/chIcons/1519.png" tvg-rec="6", AM: Arma TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1519/mono.m3u8?token=nareka.v2_maRBGgdnlmWLFaNWEd29mZlLsP1PtkfVDTr-cjXsx7Tc8PWoCy46M0KiOAv8kWTOWocS3M4fLhU
+#EXTINF:0 tvg-id="ch1505" tvg-name="AM: Artn TV" tvg-logo="http://tvtm.one/images/chIcons/1505.png" tvg-rec="0", AM: Artn TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1505/mono.m3u8?token=nareka.v2_KOhSzjREeWuvW03OCU7szADGx3F1O2dt9W12SkyR0o0HcystFO_YGJ0pbnetV0SJIiVqyGYIDCA
+#EXTINF:0 tvg-id="ch1495" tvg-name="AM: Azatutyun TV" tvg-logo="http://tvtm.one/images/chIcons/1495.png" tvg-rec="6", AM: Azatutyun TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1495/mono.m3u8?token=nareka.v2_wRqlA08O11PcqNRJA0_rkwinJtKfTXSsBg4TlnX0WVdcxR2b9yeSyI8rdhi1rOUwf-jd-8733Ow
+#EXTINF:0 tvg-id="ch1512" tvg-name="AM: ArmToon TV" tvg-logo="http://tvtm.one/images/chIcons/1512.png" tvg-rec="6", AM: ArmToon TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1512/mono.m3u8?token=nareka.v2_nQ8pNI5HR2Qg_xMn5XhAybUBHMhoBD9VWejKsDMeJ7LDoLJ6JJLIjCwsTNN26SkpYbtM7NROGPM
+#EXTINF:0 tvg-id="ch1781" tvg-name="AM: ArmMusic" tvg-logo="http://tvtm.one/images/chIcons/1781.png" tvg-rec="0", AM: ArmMusic
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1781/mono.m3u8?token=nareka.v2_AUkalMxco18roiMhn3mpCM1LjyAnApFi3lPVcvTDSNGqSHm9zy8kHhkPdRNe565AmNjXslLOUqk
+#EXTINF:0 tvg-id="ch1518" tvg-name="AM: Armount TV" tvg-logo="http://tvtm.one/images/chIcons/1518.png" tvg-rec="6", AM: Armount TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1518/mono.m3u8?token=nareka.v2__x-eLM43x3Cj0ks-Ce8L0ZBuCy0LnXZt223oSEaoTHTDsAAQzzu5p_G4ZI76ETzQyc1nII1b5r8
+#EXTINF:0 tvg-id="ch1544" tvg-name="AM: Blues TV" tvg-logo="http://tvtm.one/images/chIcons/1544.png" tvg-rec="0", AM: Blues TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1544/mono.m3u8?token=nareka.v2_WPmluKWMGWPGbnrN7Mp6tNH-2Y7bfU0H_lj1JehNQKtQZefOQf6QFVeE7nCLmCuV5AVTaDLU20c
+#EXTINF:0 tvg-id="ch1381" tvg-name="AM: BunTV HD" tvg-logo="http://tvtm.one/images/chIcons/1381.png" tvg-rec="6", AM: BunTV HD
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1381/mono.m3u8?token=nareka.v2_6eI5s1dTa2_YK4utlbh70EMVPmljvrg7dKeLxMfIP3iDCGvcwd9LdBalWX7XQwz4icZoNmzc5fE
+#EXTINF:0 tvg-id="ch1476" tvg-name="AM: Comedy" tvg-logo="http://tvtm.one/images/chIcons/1476.png" tvg-rec="6", AM: Comedy
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1476/mono.m3u8?token=nareka.v2_T3JtIoFhPkAVfawT4KhVv5L4gXKk9YKOYKvkBEcmJAZ7xlE_ofxOJOdXWkihiRS0oGkWoAqAKTM
+#EXTINF:0 tvg-id="ch1478" tvg-name="AM: Cineman" tvg-logo="http://tvtm.one/images/chIcons/1478.png" tvg-rec="6", AM: Cineman
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1478/mono.m3u8?token=nareka.v2_ShdCTFaTkQyxU_YnQmW1QkQJ45ef0tgRO3pNrFug4hXmdINeXdNn7_rt_IpUO6PdGd0uk_KayiQ
+#EXTINF:0 tvg-id="ch1503" tvg-name="AM: DeltaTV" tvg-logo="http://tvtm.one/images/chIcons/1503.png" tvg-rec="6", AM: DeltaTV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1503/mono.m3u8?token=nareka.v2_ge1VwemCzucinDHAz5uedS5PcFMmg2TZzd5-oPonm7ya87Q9QhZGJ4QO4aBoMH3vKG7Q82iBxQg
+#EXTINF:0 tvg-id="ch2212" tvg-name="AM: Euromedia24 HD" tvg-logo="http://tvtm.one/images/chIcons/2212.png" tvg-rec="6", AM: Euromedia24 HD
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch2212/mono.m3u8?token=nareka.v2_3_ZTbgIV1OcbKO7BIcYwXRREE1GGqf3K-ttr9nR70uQds0fy-aHpGvyOFm0usECeEYxKzZzCI2s
+#EXTINF:0 tvg-id="ch1520" tvg-name="AM: Fresh TV" tvg-logo="http://tvtm.one/images/chIcons/1520.png" tvg-rec="0", AM: Fresh TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1520/mono.m3u8?token=nareka.v2_eqit33jjm3kOJ2Mdpc5QqT3Fv232ELem5F-HAzOJktqIzt7zGsLNEt-57FIuRNn8OfmF7xK1utI
+#EXTINF:0 tvg-id="ch1501" tvg-name="AM: Fortuna TV" tvg-logo="http://tvtm.one/images/chIcons/1501.png" tvg-rec="6", AM: Fortuna TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1501/mono.m3u8?token=nareka.v2_CzrIgsSrF2Akydlx0FNP8rtTrjTSQN14iHP626febZAAFtZr3Qw98_VMaTxpsnALsUKDJbQX41U
+#EXTINF:0 tvg-id="ch1470" tvg-name="AM: FreeNews" tvg-logo="http://tvtm.one/images/chIcons/1470.png" tvg-rec="6", AM: FreeNews
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1470/mono.m3u8?token=nareka.v2_gK7uerV4bw3tHTBj8H-PrxgefxU-BGEUcZ9WPdFGNe7WuLDZ2QROQu5OmZpGh-G_WA-J55ILiwQ
+#EXTINF:0 tvg-id="ch1492" tvg-name="AM: FastSports" tvg-logo="http://tvtm.one/images/chIcons/1492.png" tvg-rec="6", AM: FastSports
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1492/mono.m3u8?token=nareka.v2_nX0bxVq1YnLaDlhNqqWfEmDhsHXln4GM2_YILi71K4-oSIsQSEdDLk0egLXjsFWNMKBiq8BfvcQ
+#EXTINF:0 tvg-id="ch2587" tvg-name="AM: FastSports 1" tvg-logo="http://tvtm.one/images/chIcons/2587.png" tvg-rec="6", AM: FastSports 1
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch2587/mono.m3u8?token=nareka.v2_NJ4lGfewzzLnsCttcUPfslQiRrgkkO3ycaebd0_cd4EkIph7zLlgIwrwb9ivRuDs1ZARXt9mB3I
+#EXTINF:0 tvg-id="ch2588" tvg-name="AM: FastSports 2" tvg-logo="http://tvtm.one/images/chIcons/2588.png" tvg-rec="6", AM: FastSports 2
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch2588/mono.m3u8?token=nareka.v2_sTJ6hoWZk9NmZiLrxK6XuK6zIcfpY1qnPd4zR24KRuD65Xk4KIS_Dlh7RyvbL10BhfZf3ruN8pc
+#EXTINF:0 tvg-id="ch2255" tvg-name="AM: Geghama TV" tvg-logo="http://tvtm.one/images/chIcons/2255.png" tvg-rec="6", AM: Geghama TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch2255/mono.m3u8?token=nareka.v2_pFe7M1BJlbIOXvUTGtbifeUxLS4vvUEiZWrg_Trvy8XIiD0_7aSIy2YTY-env1mpL8kO9E0X4Wo
+#EXTINF:0 tvg-id="ch1475" tvg-name="AM: JanTV" tvg-logo="http://tvtm.one/images/chIcons/1475.png" tvg-rec="6", AM: JanTV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1475/mono.m3u8?token=nareka.v2_dD9NxvryvtWx8nX-WRZFQzRJVm49B_5hQSU0vq7HqAI0jnbyk11XqI_OGy_Wpu59uMkXwR4E6Gg
+#EXTINF:0 tvg-id="ch1078" tvg-name="AM: H2" tvg-logo="http://tvtm.one/images/chIcons/1078.png" tvg-rec="0", AM: H2
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1078/mono.m3u8?token=nareka.v2_8GC8L_atUt_Cj0O7UDBvYndDqDKMzZ0hyn191EKFt7mu_o3kVBhrgDhCrvKGRLe2AqMs8l6kZIQ
+#EXTINF:0 tvg-id="ch1474" tvg-name="AM: HayKino" tvg-logo="http://tvtm.one/images/chIcons/1474.png" tvg-rec="6", AM: HayKino
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1474/mono.m3u8?token=nareka.v2_xKahyaqVdCCQu5tYjyg6oKKYcGiiblmaacq2_lPrepn3vmvWKCLYRyX-U3cbWD5sQGqlpW9jshY
+#EXTINF:0 tvg-id="ch1514" tvg-name="AM: Horizon TV" tvg-logo="http://tvtm.one/images/chIcons/1514.png" tvg-rec="0", AM: Horizon TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1514/mono.m3u8?token=nareka.v2_8d6t7hWtwGdWVI71Ki_FI_qlYWZBpxh_aGCIbdbsZ3XYvbg3qKccuGCZJKLi4h833IiF6W81f5E
+#EXTINF:0 tvg-id="ch1515" tvg-name="AM: Hybrid Edu" tvg-logo="http://tvtm.one/images/chIcons/1515.png" tvg-rec="6", AM: Hybrid Edu
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1515/mono.m3u8?token=nareka.v2_B_BNHsQaM-gTSg56o8bH4GBxz1YK75tJ2-UPUP73oh4FVNodhSyG1cYITM78_FtV5WNPtRN2X0k
+#EXTINF:0 tvg-id="ch2409" tvg-name="AM: Hybrid Film" tvg-logo="http://tvtm.one/images/chIcons/2409.png" tvg-rec="6", AM: Hybrid Film
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch2409/mono.m3u8?token=nareka.v2_zM7A9iVk7xlk1wYClCaWtC634jrbk_DaG6kR3kZl5kk9BvyIlFIHAg59ecQ0B7UhIVZN9Xy-wcc
+#EXTINF:0 tvg-id="ch2410" tvg-name="AM: Hybrid Rest" tvg-logo="http://tvtm.one/images/chIcons/2410.png" tvg-rec="6", AM: Hybrid Rest
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch2410/mono.m3u8?token=nareka.v2__m-Zfx6l_QyMFsKB0v3wMYdPkN9loKrACATuGucq7WJBsUGLbN3wBrk4TRfOzr6naGErVV6X3As
+#EXTINF:0 tvg-id="ch3294" tvg-name="AM: HayerJan Music HD" tvg-logo="http://tvtm.one/images/chIcons/3294.png" tvg-rec="0", AM: HayerJan Music HD
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch3294/mono.m3u8?token=nareka.v2_PAF-oz-dAWEOOLG8-2d25MNlYEmY3lYSto2hIh7eaiJVQ8a_TTWBAzgxWRASl0t5rvkCWfYbHq8
+#EXTINF:0 tvg-id="ch1076" tvg-name="AM: Kentron" tvg-logo="http://tvtm.one/images/chIcons/1076.png" tvg-rec="6", AM: Kentron
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1076/mono.m3u8?token=nareka.v2_PCsx4yAVo6t9-Go0ysZYEJp2ranhF5Pc76DtvoHEupJfNY1VjFd2uqtMSEfgZH2FplNtDxUBmAs
+#EXTINF:0 tvg-id="ch1521" tvg-name="AM: Kentron TV Sat" tvg-logo="http://tvtm.one/images/chIcons/1521.png" tvg-rec="6", AM: Kentron TV Sat
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1521/mono.m3u8?token=nareka.v2_-Ahs5l5GfM_sJudAWSkECWi9jZF1K2nGp74_vB9HBk5ZEziRvaZsvk5n6RP2RhKttOquR2zX718
+#EXTINF:0 tvg-id="ch1500" tvg-name="AM: Kotayq" tvg-logo="http://tvtm.one/images/chIcons/1500.png" tvg-rec="6", AM: Kotayq
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1500/mono.m3u8?token=nareka.v2_joFhGaj8Kb9q-lNUP4mF8Au7xXE1oSbsr0-_EfsnFcNnJJvf65rClDG52NEG5pmNPkryRCKSg6c
+#EXTINF:0 tvg-id="ch1511" tvg-name="AM: Kids House" tvg-logo="http://tvtm.one/images/chIcons/1511.png" tvg-rec="0", AM: Kids House
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1511/mono.m3u8?token=nareka.v2_TRQ_XGvaQ81Lfi3OFk3A-56eHCZM5TTxtaY9ObJ7aru-ztM7Os325zlcoc6ZZLlj0pWPu_bDuQU
+#EXTINF:0 tvg-id="ch1471" tvg-name="AM: Lurer" tvg-logo="http://tvtm.one/images/chIcons/1471.png" tvg-rec="6", AM: Lurer
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1471/mono.m3u8?token=nareka.v2_X9Aem2fefjlmyq6a3XG7NqyKEbsvIN-NQ-WjmY2SgeE7SkpXZpg7Dno0uH4Rwh4lsjPAbLX8-iU
+#EXTINF:0 tvg-id="ch1499" tvg-name="AM: Lori TV" tvg-logo="http://tvtm.one/images/chIcons/1499.png" tvg-rec="6", AM: Lori TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1499/mono.m3u8?token=nareka.v2_g7dtHtwK5aT35BNRxgBKFoqN2IluBSeAkHQFMJBEVUGcCds6UeCSZ96rZggmog5mkiNnWvCXUS8
+#EXTINF:0 tvg-id="ch2468" tvg-name="AM: Mig TV" tvg-logo="http://tvtm.one/images/chIcons/2468.png" tvg-rec="0", AM: Mig TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch2468/mono.m3u8?token=nareka.v2_ArM6azQFkdAq4EDRPM1jQYRlTDBmUnyrPgysX8ogna64IOSYTi8jrdoFUTjLAJGxh0gu3a7ivuY
+#EXTINF:0 tvg-id="ch1469" tvg-name="AM: Nur TV" tvg-logo="http://tvtm.one/images/chIcons/1469.png" tvg-rec="6", AM: Nur TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1469/mono.m3u8?token=nareka.v2_4cNezUIegYQPwJI5Pb31pgLYqbowB7Rknf-dWPu-iBiF-8lGAoFMzDQvY_UOpa_0g34vGCbJ9UE
+#EXTINF:0 tvg-id="ch1522" tvg-name="AM: Noyan Tapan" tvg-logo="http://tvtm.one/images/chIcons/1522.png" tvg-rec="6", AM: Noyan Tapan
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1522/mono.m3u8?token=nareka.v2_wOGhLdOXn8IBPe2dVfPEvJugiAhTPgfWv2WDN0LK-gPQ-jH14bhHt90b8vZYiBkZTBk2ciN3Zsc
+#EXTINF:0 tvg-id="ch1472" tvg-name="AM: Nor Hayastan" tvg-logo="http://tvtm.one/images/chIcons/1472.png" tvg-rec="6", AM: Nor Hayastan
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1472/mono.m3u8?token=nareka.v2_8L1qDNf4At1wEyGP1YCpKhKE6I2jwMMXtxbKcHe5GG5L8xHhAp-290we3_TrZJDtgCoFgHKR-zQ
+#EXTINF:0 tvg-id="ch1504" tvg-name="AM: PanArmenian TV" tvg-logo="http://tvtm.one/images/chIcons/1504.png" tvg-rec="0", AM: PanArmenian TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1504/mono.m3u8?token=nareka.v2_fN1RWcq5IlbmK242RG6PcmV-SWT0_jkdTXbFbHVd24B8HntE3Pk4Kl8Yqy9Ed2LoF54uEcC_3u8
+#EXTINF:0 tvg-id="ch575" tvg-name="AM: Shant HD" tvg-logo="http://tvtm.one/images/chIcons/575.png" tvg-rec="6", AM: Shant HD
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch575/mono.m3u8?token=nareka.v2_hqrX448JtoJYUgkleF36RTvCPGtwDtipvqgDFa3wIWwtCdh8HChpyX49_Utb3mcR8BNHmWU0cQ
+#EXTINF:0 tvg-id="ch1080" tvg-name="AM: Shant Serial  HD" tvg-logo="http://tvtm.one/images/chIcons/1080.png" tvg-rec="6", AM: Shant Serial  HD
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1080/mono.m3u8?token=nareka.v2_iUkOPPY7VM2wQIDo9SpZ9xXnAaNqmllzgddmd0dkgGcx4C_r4HeIP6HGB8m7iC5KKx3qB1UPkUA
+#EXTINF:0 tvg-id="ch1489" tvg-name="AM: Shant Premium USA" tvg-logo="http://tvtm.one/images/chIcons/1489.png" tvg-rec="6", AM: Shant Premium USA
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1489/mono.m3u8?token=nareka.v2_0SCDiY8Kcce-Fd_Atd8wtdRqW1Jjy6KSzbbGheEb42sBz7v6LHSmv-75EBIyFEgsneya4vclGN0
+#EXTINF:0 tvg-id="ch1487" tvg-name="AM: Shant Premium" tvg-logo="http://tvtm.one/images/chIcons/1487.png" tvg-rec="6", AM: Shant Premium
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1487/mono.m3u8?token=nareka.v2_OHI77GKzXK0_t6mUmzieoqVNlHZvkRuVQ5qBNCLn-c_0ULqvu41ewTWGQjA0U2lh2ntXJPa3cDU
+#EXTINF:0 tvg-id="ch1075" tvg-name="AM: Shant Film" tvg-logo="http://tvtm.one/images/chIcons/1075.png" tvg-rec="6", AM: Shant Film
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1075/mono.m3u8?token=nareka.v2_3x6yNk8tAaVuH1pucK9LUGaW0KasMoVFz8qj7Q3tOjr9myv4SvA_ymiu3GpgybUpvwvltl2meMA
+#EXTINF:0 tvg-id="ch1125" tvg-name="AM: Shant Comedy" tvg-logo="http://tvtm.one/images/chIcons/1125.png" tvg-rec="6", AM: Shant Comedy
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1125/mono.m3u8?token=nareka.v2_6Jrgwl8soeF0Z2DRMo_uQUJWcdmtWoTha79-l0V-c9DXtTjgFgIwvRaoaXdupzpo-hKNp44ajB4
+#EXTINF:0 tvg-id="ch1488" tvg-name="AM: Shant Gyumri" tvg-logo="http://tvtm.one/images/chIcons/1488.png" tvg-rec="6", AM: Shant Gyumri
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1488/mono.m3u8?token=nareka.v2_QcycjOMofKSjku6xY9PwO8yKkq9ULrvnvNUYE8UIxZFQMMiDEjsGNCi1KSDp0xSzLIhkDBJ6a2U
+#EXTINF:0 tvg-id="ch1490" tvg-name="AM: Shant Kids" tvg-logo="http://tvtm.one/images/chIcons/1490.png" tvg-rec="6", AM: Shant Kids
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1490/mono.m3u8?token=nareka.v2_TiqhuZSQjZYp0CQbccZJrjGDHI69mMYfrwy5mCWRgrycReE2Bk9fFSAyEGcbHN0MUBNMxGPzTuM
+#EXTINF:0 tvg-id="ch1491" tvg-name="AM: Shant Music" tvg-logo="http://tvtm.one/images/chIcons/1491.png" tvg-rec="6", AM: Shant Music
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1491/mono.m3u8?token=nareka.v2_lFhMpAHeoKltfbkBeWkI8E28cwByf6eVh79ZgdKrzuQfjNfpKQEASxRX8t0b6avuS7kNZrjIWzs
+#EXTINF:0 tvg-id="ch1085" tvg-name="AM: Shoghakat TV" tvg-logo="http://tvtm.one/images/chIcons/1085.png" tvg-rec="6", AM: Shoghakat TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1085/mono.m3u8?token=nareka.v2_1cPQSPdtw0sdEsYKjgoz9kMjcNWigTJfh0q3WsO4VuvfrTivP3Q-G_hqEf1Qg75v3aCiCcQRhdM
+#EXTINF:0 tvg-id="ch1496" tvg-name="AM: SongTV" tvg-logo="http://tvtm.one/images/chIcons/1496.png" tvg-rec="6", AM: SongTV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1496/mono.m3u8?token=nareka.v2_WDrZ0y3pdWVIciFl6lO1V4h_t72U9WsJ4DpH85HBpg75HGSqmG_1ho3zMLZrmEjVG7h_FH--v9s
+#EXTINF:0 tvg-id="ch2408" tvg-name="AM: Syunik TV" tvg-logo="http://tvtm.one/images/chIcons/2408.png" tvg-rec="6", AM: Syunik TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch2408/mono.m3u8?token=nareka.v2_4QPSqfkeD6EzEs6Mo8FBS5gt3L2K55ipXq_tVzthx2ctwsbkAU5KS5NifWs6IvJudtwBebjxJ94
+#EXTINF:0 tvg-id="ch1502" tvg-name="AM: Tsayg" tvg-logo="http://tvtm.one/images/chIcons/1502.png" tvg-rec="6", AM: Tsayg
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1502/mono.m3u8?token=nareka.v2_UtWVD4LcmTPRjO6bZPXGqfAN0KF7uJtPunrnGm7ubJ9ptatBgGHBERrJUc42V08A2ubrs9vKL1U
+#EXTINF:0 tvg-id="ch1477" tvg-name="AM: Tuntunik" tvg-logo="http://tvtm.one/images/chIcons/1477.png" tvg-rec="6", AM: Tuntunik
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1477/mono.m3u8?token=nareka.v2_TA4CxHc8sk4jRfqUKmb8GpjkL2uae7aS-Aq3RVFwb5T0oGXaatMFkrtZR-p5PPRE6u1vgX9-CBk
+#EXTINF:0 tvg-id="ch1584" tvg-name="AM: Tavush TV" tvg-logo="http://tvtm.one/images/chIcons/1584.png" tvg-rec="6", AM: Tavush TV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1584/mono.m3u8?token=nareka.v2_iC02L4gESwSXyH_D83oH7Y7sSiJbXl0PE-kp2iDLZdjlmxHDRp8gJdZNQwdzzKQOJPlYRaPtsIA
+#EXTINF:0 tvg-id="ch1525" tvg-name="AM: TBN Armenia" tvg-logo="http://tvtm.one/images/chIcons/1525.png" tvg-rec="6", AM: TBN Armenia
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1525/mono.m3u8?token=nareka.v2_l5GVS3MT48K9bsqZpGMMo5oArzEsEdV8cN3MoY328z_ESp88nFnnC1crXfIquEwPdaSAn7LJvyg
+#EXTINF:0 tvg-id="ch3448" tvg-name="AM: Yerkir Media" tvg-logo="http://tvtm.one/images/chIcons/3448.png" tvg-rec="0", AM: Yerkir Media
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch3448/mono.m3u8?token=nareka.v2_KuxlgRV-RVSeWvj8I6XC3AhKNBFM50e_G1iJR9qY24-1sIC7R1XBs2067KpcvT25ryIvFKXNyks
+#EXTINF:0 tvg-id="ch1513" tvg-name="AM: Velary" tvg-logo="http://tvtm.one/images/chIcons/1513.png" tvg-rec="0", AM: Velary
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1513/mono.m3u8?token=nareka.v2_71dabyhTwAAJ5JpKfmO-Hx3_f3xJ1_OIQs_HTK-2bZmu_49hpDCnMw9qZ8T5oQDM6vyBW32s8Ig
+#EXTINF:0 tvg-id="ch1506" tvg-name="AM: USArmeniaTV" tvg-logo="http://tvtm.one/images/chIcons/1506.png" tvg-rec="0", AM: USArmeniaTV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1506/mono.m3u8?token=nareka.v2_WHwZlEkitSOqhBdGi7RwLfm79ii0UkhJ7mM3-jIG2AIGAy-bSAVuiNPSaKcKncSmOGGITtlT-vg
+#EXTINF:0 tvg-id="ch1577" tvg-name="AM: MyTV" tvg-logo="http://tvtm.one/images/chIcons/1577.png" tvg-rec="0", AM: MyTV
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1577/mono.m3u8?token=nareka.v2_72gQL2c5MJRCJ_91iC6VfBCi8YH_XxqPRGzusbx3L-0NpX52P4hkcAw56ifanPA7Uqu4_FysJoY
+#EXTINF:0 tvg-id="ch1579" tvg-name="AM: MyTV Kids" tvg-logo="http://tvtm.one/images/chIcons/1579.png" tvg-rec="0", AM: MyTV Kids
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1579/mono.m3u8?token=nareka.v2_2TKCFAl08sw-TPoJv0gEJXXAWKGk3DS2H10UAZA7KTNXa9_lO37CMQdifbuMt76JFBMn2mUgAjo
+#EXTINF:0 tvg-id="ch1578" tvg-name="AM: MyTV 2" tvg-logo="http://tvtm.one/images/chIcons/1578.png" tvg-rec="0", AM: MyTV 2
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1578/mono.m3u8?token=nareka.v2_xs9t-wbPsXhkQGrIDLykcrEh1o-12pR9N08ysituCvEkyB6virf1-bn92KbU7_tV93ARs-N7KGI
+#EXTINF:0 tvg-id="ch1576" tvg-name="AM: MyTV 3" tvg-logo="http://tvtm.one/images/chIcons/1576.png" tvg-rec="0", AM: MyTV 3
+#EXTGRP:29. Armenia
+http://3.tvtm.one/ch1576/mono.m3u8?token=nareka.v2__YvzT12Cv1d0uFhKURGXlkbX-IAlqPQRnIs9PmDyDGh2PYqjxhdwAPh1RkNEo08m5BzLV2o49mM
+#EXTINF:0 tvg-id="ch1580" tvg-name="AM: MyTV Hit" tvg-logo="http://tvtm.one/images/chIcons/1580.png" tvg-rec="0", AM: MyTV Hit
+#EXTGRP:29. Armenia
